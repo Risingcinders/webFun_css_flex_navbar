@@ -1,0 +1,35 @@
+* {
+    color: white;
+}
+
+.wrapper {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #01AEDC;
+    /* width: auto; */
+    margin: 20px;
+    height: 100px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img {
+    margin: 20px;
+}
+
+h1{
+    min-width: 190px;;
+}
+
+ul {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

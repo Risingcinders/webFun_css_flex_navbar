@@ -1,0 +1,14 @@
+.center-box {
+    background-color: rgba(0, 0, 151, 0.945);
+    height: 400px;
+    width: 950px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center-item {
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+}
